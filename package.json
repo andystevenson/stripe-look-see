@@ -1,0 +1,26 @@
+{
+  "name": "stripe-look-see",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx slinkity --serve --incremental",
+    "build": "npx slinkity",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andystevenson/stripe-look-see.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andystevenson/stripe-look-see/issues"
+  },
+  "homepage": "https://github.com/andystevenson/stripe-look-see#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "slinkity": "^0.6.1"
+  }
+}
