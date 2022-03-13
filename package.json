@@ -19,8 +19,10 @@
     "url": "https://github.com/andystevenson/stripe-look-see/issues"
   },
   "homepage": "https://github.com/andystevenson/stripe-look-see#readme",
-  "dependencies": {
+  "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
+    "postcss-custom-media": "^8.0.0",
+    "postcss-jit-props": "^1.0.4",
     "slinkity": "^0.6.1"
   }
 }
